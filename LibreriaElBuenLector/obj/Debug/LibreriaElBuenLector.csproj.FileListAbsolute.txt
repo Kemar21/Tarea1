@@ -1,0 +1,5 @@
+c:\users\kemblys\documents\visual studio 2015\Projects\LibreriaElBuenLector\LibreriaElBuenLector\bin\Debug\LibreriaElBuenLector.exe.config
+c:\users\kemblys\documents\visual studio 2015\Projects\LibreriaElBuenLector\LibreriaElBuenLector\bin\Debug\LibreriaElBuenLector.exe
+c:\users\kemblys\documents\visual studio 2015\Projects\LibreriaElBuenLector\LibreriaElBuenLector\bin\Debug\LibreriaElBuenLector.pdb
+c:\users\kemblys\documents\visual studio 2015\Projects\LibreriaElBuenLector\LibreriaElBuenLector\obj\Debug\LibreriaElBuenLector.exe
+c:\users\kemblys\documents\visual studio 2015\Projects\LibreriaElBuenLector\LibreriaElBuenLector\obj\Debug\LibreriaElBuenLector.pdb
